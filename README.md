@@ -13,4 +13,4 @@ Diabetes is a metabolic disorder characterized by high blood sugar levels due to
 ### Dataset
 Link- https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 ### Deployment
-Link- http://54.226.57.141:7800/
+Link- http://54.165.134.171:3500/
